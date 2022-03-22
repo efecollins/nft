@@ -1,0 +1,29 @@
+//Color
+$soft-blue: hsl(215, 51%, 70%);
+$cyan: hsl(178, 100%, 50%);
+$main-BG: hsl(217, 54%, 11%);
+$card-BG: hsl(216, 50%, 16%);
+$line: hsl(215, 32%, 27%);
+$white: hsl(0, 0%, 100%);
+
+//Others
+$margin15: 15px auto 15px;
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: $main-BG;
+    font-family: 'Outfit', sans-serif;
+}
+
+@mixin cyanhover {
+    &:hover {
+        color: $cyan;
+        cursor: default;
+        transition: color 1s ease;
+    }
+}
