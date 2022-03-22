@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [NFT solution URL](https://www.frontendmentor.io/solutions/nftpreviewcardcomponent-using-sass-y022XwUyg)
+- Live Site URL: [NFT live site URL](https://efecollins.github.io/nft/dist)
 
 ## My process
 
@@ -53,5 +53,5 @@ In the future, I want to improve my usage of Sass. I struggled with it here but 
 ## Author
 
 - Website - [Efosa Collins Evbowe](https://efecollins.github.io/new-pweb/dist)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@efecollins](https://www.frontendmentor.io/profile/efecollins)
 - Twitter - [@EfeCollins7](https://www.twitter.com/EfeCollins7)
